@@ -1,2 +1,2 @@
 # llama-geoguessr
-let's make llama 3.2 play geoguessr
+ forcing llama 3.2 to play geoguessr
